@@ -1,5 +1,5 @@
 import {useState} from "react";
-import {IconButton,Typography,Box,useMediaQuery,ToggleButton} from '@mui/material';
+import {IconButton,Box,useMediaQuery,ToggleButton} from '@mui/material';
 import{AlignHorizontalLeft, ShoppingBag, Close, Home, AccountCircle} from "@mui/icons-material";
 import { useNavigate } from "react-router-dom";
 import  "./Navbar.css";
