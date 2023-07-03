@@ -1,0 +1,23 @@
+.navbar-container{
+    padding-top: 1%;
+    background-color:#F5F5DC;
+    padding-bottom: 1%;
+ 
+}
+
+.button-container{
+    display: flex;
+    align-items: center;
+}
+
+
+
+.button-container .button{
+    display: flex;
+    align-items: center;
+    margin-left: 30%;
+}
+
+.button-container button{
+    padding-right: 5%;
+}
